@@ -1,0 +1,8 @@
+Getting started:
+
+	Docs: http://roslyn.codeplex.com/
+	Roslyn API: Install-Package Microsoft.CodeAnalysis -Pre
+	Roslyn SDK Preview: https://connect.microsoft.com/VisualStudio/Downloads/DownloadDetails.aspx?DownloadID=52793 => Roslyn SDK Preview.zip
+
+Handle regions:
+	http://magenic.com/BlogArchive/ModifyingCodewithProjectRoslyn
